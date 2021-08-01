@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SelectionOfERPSystems.ERPDBContext">
+    <Position X="5.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AACEAAAAAAAAAAsAAIAAAAAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>DBContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SelectionOfERPSystems.Обозначение">
+    <Position X="11" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DBContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SelectionOfERPSystems.Отрасль">
+    <Position X="11" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DBContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SelectionOfERPSystems.Компания">
+    <Position X="10.25" Y="2.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAACgAAAAAAAAgBAAAAAAAAQAAgAQAAAAAAAAAABQAA=</HashCode>
+      <FileName>DBContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SelectionOfERPSystems.Принадлежность_продукта">
+    <Position X="10.25" Y="5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAQQAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>DBContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SelectionOfERPSystems.Продукт">
+    <Position X="12.75" Y="0.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>ACgSAAwwAMARASBBAFgCBEBQwoAECAAgBBAAAEAIQAM=</HashCode>
+      <FileName>DBContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SelectionOfERPSystems.Interface">
+    <Position X="2.5" Y="0.5" Width="2.75" />
+    <Members>
+      <Field Name="components" Hidden="true" />
+      <Field Name="CostForeverComboBox" Hidden="true" />
+      <Field Name="CostMonthComboBox" Hidden="true" />
+      <Field Name="DeployComboBox" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Field Name="FModulesListBox" Hidden="true" />
+      <Field Name="FSizeComboBox" Hidden="true" />
+      <Field Name="GoButton" Hidden="true" />
+      <Field Name="IndustryComboBox" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="IntegrationListBox" Hidden="true" />
+      <Field Name="label1" Hidden="true" />
+      <Field Name="label10" Hidden="true" />
+      <Field Name="label11" Hidden="true" />
+      <Field Name="label12" Hidden="true" />
+      <Field Name="label13" Hidden="true" />
+      <Field Name="label14" Hidden="true" />
+      <Field Name="label15" Hidden="true" />
+      <Field Name="label16" Hidden="true" />
+      <Field Name="label17" Hidden="true" />
+      <Field Name="label18" Hidden="true" />
+      <Field Name="label19" Hidden="true" />
+      <Field Name="label2" Hidden="true" />
+      <Field Name="label20" Hidden="true" />
+      <Field Name="label21" Hidden="true" />
+      <Field Name="label22" Hidden="true" />
+      <Field Name="label23" Hidden="true" />
+      <Field Name="label24" Hidden="true" />
+      <Field Name="label25" Hidden="true" />
+      <Field Name="label26" Hidden="true" />
+      <Field Name="label27" Hidden="true" />
+      <Field Name="label28" Hidden="true" />
+      <Field Name="label29" Hidden="true" />
+      <Field Name="label3" Hidden="true" />
+      <Field Name="label30" Hidden="true" />
+      <Field Name="label31" Hidden="true" />
+      <Field Name="label32" Hidden="true" />
+      <Field Name="label33" Hidden="true" />
+      <Field Name="label34" Hidden="true" />
+      <Field Name="label35" Hidden="true" />
+      <Field Name="label36" Hidden="true" />
+      <Field Name="label37" Hidden="true" />
+      <Field Name="label38" Hidden="true" />
+      <Field Name="label39" Hidden="true" />
+      <Field Name="label4" Hidden="true" />
+      <Field Name="label40" Hidden="true" />
+      <Field Name="label41" Hidden="true" />
+      <Field Name="label5" Hidden="true" />
+      <Field Name="label6" Hidden="true" />
+      <Field Name="label7" Hidden="true" />
+      <Field Name="label8" Hidden="true" />
+      <Field Name="label9" Hidden="true" />
+      <Field Name="ModularComboBox" Hidden="true" />
+      <Field Name="ModulesListBox" Hidden="true" />
+      <Field Name="NameTextBox" Hidden="true" />
+      <Field Name="OutputListBox" Hidden="true" />
+      <Field Name="RFComboBox" Hidden="true" />
+      <Field Name="SizeComboBox" Hidden="true" />
+      <Field Name="tabControl1" Hidden="true" />
+      <Field Name="tabPage1" Hidden="true" />
+      <Field Name="tabPage2" Hidden="true" />
+      <Field Name="tabPage3" Hidden="true" />
+      <Field Name="tabPage4" Hidden="true" />
+      <Field Name="toolTip" Hidden="true" />
+      <Field Name="TrialComboBox" Hidden="true" />
+      <Field Name="WorkersTextBox" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>/zCgBQCgACAAQBAACASEAAADAAQECgHCIQBJAgEBDDI=</HashCode>
+      <FileName>Interface.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SelectionOfERPSystems.Output">
+    <Position X="3.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAIAAAAAAQAAAAAAEIAAAAAAAAAEA=</HashCode>
+      <FileName>Output.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SelectionOfERPSystems.Selection">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="SelectionOfERPSystems.Selection.Product">
+        <TypeIdentifier>
+          <NewMemberFileName>Selection.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Struct Name="SelectionOfERPSystems.Selection.PairKeyValue" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Selection.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>wCAAAQABBAAACAAEALFAAIAAAAAABCAJQAAABCAQiAE=</HashCode>
+      <FileName>Selection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SelectionOfERPSystems.ColumnToModuleName">
+    <Position X="5.5" Y="4" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAEAABAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ColumnToModuleName.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

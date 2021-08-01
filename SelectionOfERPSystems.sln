@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelectionOfERPSystems", "SelectionOfERPSystems\SelectionOfERPSystems.csproj", "{A482101A-22DE-485D-8456-13D145C81A6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A482101A-22DE-485D-8456-13D145C81A6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A482101A-22DE-485D-8456-13D145C81A6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A482101A-22DE-485D-8456-13D145C81A6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A482101A-22DE-485D-8456-13D145C81A6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA01BA4F-787F-4CF8-9A45-75E5B38CB74D}
+	EndGlobalSection
+EndGlobal
